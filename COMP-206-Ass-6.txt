@@ -1,0 +1,59 @@
+# Student Name : Yordan Radev
+# Student ID   : 260 744 314
+
+####################################################################################################
+linked.c
+####################################################################################################
+
+struct ACCOUNT *head = NULL
+
+struct ACCOUNT
+{
+	int accountNumber;
+	float balance;
+	struct ACCOUNT *next;
+}
+
+void findUpdate(int account, int amount);
+{
+	currACCOUNT = head;
+
+	while(currACCOUNT.next != NULL)
+		if(currACCOUNT == account)
+			currACCOUNT.balance + ammount;
+		return 0
+
+	AACCOUNT.account= account;
+	ACCOUNT.ammount = ammount;
+	ACCOUNT.next = NULL;
+	currACCOUNT.next = ACCOUNT
+	
+}
+void prettyPrint();
+{
+	currentACCOUNT = head;
+	while(currentACCOUNT.next != NULL)
+	{
+		printf("ACCOUNT ID: %i \t BALANCE: $ %6.2f", *acct, *amnt)
+	}
+}
+
+####################################################################################################
+main.c
+####################################################################################################
+
+int main(int argc, char *argv[]) {
+
+void parse(char record[], int *acct, float *amnt);
+{
+	string separator = " "
+	string accounts;
+	string ammounts;
+
+	sscanf(record[], "%i %f", accounts,ammounts )
+
+	*acct = atoi(account);
+	*amnt = atof(ammounts);
+}
+
+}
