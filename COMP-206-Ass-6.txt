@@ -44,16 +44,30 @@ main.c
 
 int main(int argc, char *argv[]) {
 
+open file.ssv
+
+Loop through all the records and call parse (whose pointers *acct and *ammt you pass to findUpdate)
+Then loop thorugh and call prettyprint
+
+reurn 1
+}
+####################################################################################################
+ssv.c
+####################################################################################################
+
+
+
 void parse(char record[], int *acct, float *amnt);
 {
-	string separator = " "
-	string accounts;
-	string ammounts;
+#	string separator = " "
+#	string accounts;
+#	string ammounts;
+
+# Instead of this shit use the tokens like in assignement 5 
+
 
 	sscanf(record[], "%i %f", accounts,ammounts )
 
 	*acct = atoi(account);
 	*amnt = atof(ammounts);
-}
-
 }
