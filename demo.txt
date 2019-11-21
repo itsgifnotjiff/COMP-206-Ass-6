@@ -1,1 +1,3 @@
 Initial Content Adding more content
+
+Ok this the first try of remotly editing files and using git from home on mimi
