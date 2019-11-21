@@ -34,7 +34,7 @@ void prettyPrint();
 	currentACCOUNT = head;
 	while(currentACCOUNT.next != NULL)
 	{
-		printf("ACCOUNT ID: %i \t BALANCE: $ %6.2f", *acct, *amnt)
+		printf("ACCOUNT ID: %5i \t BALANCE: $ %9.2f", *acct, *amnt)
 	}
 }
 
@@ -46,7 +46,8 @@ main.c
 #include <stdlib.h>
 #include <string.h>
 #include <assert.h>
-
+#include "linked.c"
+#include "ssv.c"
 
 int main(int argc, char *argv[]) {
 
@@ -54,6 +55,18 @@ FILE *p;
 p = fopen("file.ssv", 
 
 open file.ssv
+
+while(fgets(record,100,,p) != NULL)
+{
+	accammt[] = parse(record);
+	findupdate(accammt[0],accammt[1]);
+
+}
+while(fgets(record,100,,p) != NULL)
+{
+	prettyprint();
+
+}
 
 Loop through all the records and call parse (whose pointers *acct and *ammt you pass to findUpdate)
 Then loop thorugh and call prettyprint
@@ -77,7 +90,8 @@ void parse(char record[], int *acct, float *amnt);
 # Instead of this shit use the tokens like in assignement 5 
 
 	char delim[] = " ";
-	char *ptr = strtok(record, delim);
+	char *pt:wq
+r = strtok(record, delim);
 
 	sscanf(record[], "%i %f", accounts,ammounts )
 
