@@ -87,7 +87,7 @@ void parse(char record[], int *acct, float *amnt);
 #	string accounts;
 #	string ammounts;
 
-# Instead of this shit use the tokens like in assignement 5 
+# Nope use sscanf 
 
 	char delim[] = " ";
 	char *pt:wq

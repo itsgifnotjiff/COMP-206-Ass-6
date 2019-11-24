@@ -1,0 +1,29 @@
+commit ace9c104a42d1bbc46ea05c8151c76640a79320f
+Author: Yordan RADEV <yradev@lab2-5.CS.McGill.CA>
+Date:   Thu Nov 21 13:40:37 2019 -0500
+
+    A better but not complete pseudocode of the assignment to the new correctly named remote
+
+commit df5525da584f811455ed92804985828e39778338
+Author: Yordan RADEV <yradev@lab2-50.CS.McGill.CA>
+Date:   Thu Nov 21 12:40:16 2019 -0500
+
+    A better but not complete pseudocode of the assignment
+
+commit 6d68297b16066cb47a54e5c6a1c637e85c007f66
+Author: Yordan RADEV <yradev@teaching.CS.McGill.CA>
+Date:   Wed Nov 20 19:31:38 2019 -0500
+
+    First remote git demo
+
+commit c550d1d412032328a368bb0296e4e6470b71c70a
+Author: Yordan RADEV <yradev@lab2-43.CS.McGill.CA>
+Date:   Tue Nov 19 13:30:03 2019 -0500
+
+    test
+
+commit d6f94d08e8d28259aad122ed80fbe037085ee87c
+Author: Yordan Radev <50274281+itsgifnotjiff@users.noreply.github.com>
+Date:   Tue Nov 19 11:53:34 2019 -0500
+
+    Initial commit
