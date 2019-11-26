@@ -1,3 +1,27 @@
+commit c0f82f99f8002505413c335f748025182b23e08a
+Author: Yordan RADEV <yradev@teaching.CS.McGill.CA>
+Date:   Sun Nov 24 23:56:15 2019 -0500
+
+    stupid message
+
+commit 928a0d8ec407fc6ed901028e0a13ef326c7f3478
+Author: Yordan RADEV <yradev@teaching.CS.McGill.CA>
+Date:   Sat Nov 23 22:41:42 2019 -0500
+
+    Log and sscanf comment
+
+commit 07e712587ce744b196e83970fde65ff145f467ec
+Author: Yordan RADEV <yradev@teaching.CS.McGill.CA>
+Date:   Thu Nov 21 16:25:43 2019 -0500
+
+    After I met with the TA who said to use sscanf
+
+commit 763643dba6ce19aef846f56ce0f09d1c015db101
+Author: Yordan RADEV <yradev@lab2-5.CS.McGill.CA>
+Date:   Thu Nov 21 14:00:27 2019 -0500
+
+    Pseudocode that if implemented should work
+
 commit ace9c104a42d1bbc46ea05c8151c76640a79320f
 Author: Yordan RADEV <yradev@lab2-5.CS.McGill.CA>
 Date:   Thu Nov 21 13:40:37 2019 -0500
