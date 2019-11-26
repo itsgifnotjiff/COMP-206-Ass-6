@@ -1,3 +1,9 @@
+commit 07b95eaab1d8e081dcfd56a36a7635731f466672
+Author: Yordan RADEV <yradev@teaching.CS.McGill.CA>
+Date:   Mon Nov 25 22:50:34 2019 -0500
+
+    copied final files
+
 commit c0f82f99f8002505413c335f748025182b23e08a
 Author: Yordan RADEV <yradev@teaching.CS.McGill.CA>
 Date:   Sun Nov 24 23:56:15 2019 -0500
